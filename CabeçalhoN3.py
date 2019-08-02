@@ -4,7 +4,7 @@ def cabecalho():
     hoje = datetime.now()
     datahora = hoje.strftime("%d/%m/%y %H:%M")
     print('*'*35)
-    print('*ALUNO: Leonardo Martinelli Deves *')
+    print('*ALUNO: Nome                      *')
     print('*DISCIPLINA: ADS                  *')
     print(f'*DATA e HORA: {datahora}      *')
     print('*'*35)
